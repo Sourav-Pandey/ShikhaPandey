@@ -1,0 +1,33 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.About {
+    width: 100%;
+    min-height: 100vh;
+    background-color: #ddd;
+}
+
+.container {
+    width: 80%;
+    display: block;
+    margin: auto;
+    padding-top: 100px;
+}
+
+.content-section {
+    float: left;
+    width: 50%;
+}
+
+.image-section {
+    float: right;
+    width: 40%;
+}
+
+.content-section .title {
+    text-transform: uppercase;
+    font-size: 28px;
+}
