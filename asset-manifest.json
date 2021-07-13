@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ShikhaPandey/static/css/main.0a657b0c.chunk.css",
+    "main.js": "/ShikhaPandey/static/js/main.82fe3bcf.chunk.js",
+    "main.js.map": "/ShikhaPandey/static/js/main.82fe3bcf.chunk.js.map",
+    "runtime-main.js": "/ShikhaPandey/static/js/runtime-main.2641467f.js",
+    "runtime-main.js.map": "/ShikhaPandey/static/js/runtime-main.2641467f.js.map",
+    "static/js/2.d3998c02.chunk.js": "/ShikhaPandey/static/js/2.d3998c02.chunk.js",
+    "static/js/2.d3998c02.chunk.js.map": "/ShikhaPandey/static/js/2.d3998c02.chunk.js.map",
+    "static/js/3.10cd15de.chunk.js": "/ShikhaPandey/static/js/3.10cd15de.chunk.js",
+    "static/js/3.10cd15de.chunk.js.map": "/ShikhaPandey/static/js/3.10cd15de.chunk.js.map",
+    "index.html": "/ShikhaPandey/index.html",
+    "static/css/main.0a657b0c.chunk.css.map": "/ShikhaPandey/static/css/main.0a657b0c.chunk.css.map",
+    "static/js/2.d3998c02.chunk.js.LICENSE.txt": "/ShikhaPandey/static/js/2.d3998c02.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2641467f.js",
+    "static/js/2.d3998c02.chunk.js",
+    "static/css/main.0a657b0c.chunk.css",
+    "static/js/main.82fe3bcf.chunk.js"
+  ]
+}
